@@ -6,7 +6,7 @@ const functionOne = () => {
   return x + y;
 };
 
-const fName = "Aftab";
+const fName = "Aftabuzzaman";
 const lName = "Khan";
 
 const Name = () => {
